@@ -1,0 +1,2 @@
+This file is created in feature-doc branch
+This is for understanding git merge
