@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Application configuration (SECURITY) ###
+*.properties
+*.yml
+*.yaml
+
+### Logs ###
+logs/
+*.log
